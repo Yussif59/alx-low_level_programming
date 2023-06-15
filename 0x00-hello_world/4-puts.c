@@ -1,6 +1,6 @@
 /*
  * File: 4-puts.c
- * Auth: Yussif O Badu <375@bestschool.com>
+ * Auth: Yussif O Badu <375@59gmail.com>
  */
 
 #include <stdio.h>
