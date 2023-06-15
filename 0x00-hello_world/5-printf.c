@@ -1,6 +1,6 @@
 /*
  * File: 5-printf.c
- * Auth: Brennan D Baraban
+ * Auth: Yussif O Badu
  */
 
 #include <stdio.h>
